@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f3e8f6f-c857-4384-97a3-ae07daea79c1" name="Default Changelist" comment="" />
+    <list default="true" id="0f3e8f6f-c857-4384-97a3-ae07daea79c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,15 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/com/wushuo/p6/UserPortType/main.java" root0="SKIP_INSPECTION" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\P6PROJECT\Pro2\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1ioa2JQOBsisod4t3LoXw6QNgjq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -84,17 +94,34 @@
       <workItem from="1602576195513" duration="6817000" />
       <workItem from="1602583443414" duration="2899000" />
       <workItem from="1602644011021" duration="653000" />
+      <workItem from="1602644682901" duration="321000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1602644815453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602644815453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="273" width="519" height="318" key="#com.intellij.ws.actions.GenerateJavaFromWsdlAction$1" timestamp="1602579242888">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="536" y="273" width="519" height="318" key="#com.intellij.ws.actions.GenerateJavaFromWsdlAction$1/0.0.1707.1027@0.0.1707.1027" timestamp="1602579242888" />
+    <state x="398" y="108" key="CommitChangelistDialog2" timestamp="1602644829878">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="398" y="108" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1602644829878" />
     <state x="634" y="255" key="FileChooserDialogImpl" timestamp="1602644689382">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
@@ -123,5 +150,9 @@
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="461" y="179" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1602583426961" />
+    <state x="446" y="247" key="Vcs.Push.Dialog.v2" timestamp="1602644950776">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="446" y="247" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1602644950776" />
   </component>
 </project>
