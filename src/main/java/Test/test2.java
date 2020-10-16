@@ -11,7 +11,7 @@ import java.net.URL;
 
 public class test2 {
         public static void main(String[] args) throws IOException {
-           System.out.println("wushuo");
+           System.out.println("wushussssssssssso");
         }
     }
 

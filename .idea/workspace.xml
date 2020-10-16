@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f3e8f6f-c857-4384-97a3-ae07daea79c1" name="Default Changelist" comment="第2次提交" />
+    <list default="true" id="0f3e8f6f-c857-4384-97a3-ae07daea79c1" name="Default Changelist" comment="第2次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +121,7 @@
       <workItem from="1602660979079" duration="1629000" />
       <workItem from="1602726761832" duration="1110000" />
       <workItem from="1602727888989" duration="2222000" />
-      <workItem from="1602836304063" duration="293000" />
+      <workItem from="1602836304063" duration="494000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1602644815453</created>
@@ -133,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602836391055</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第2次提交">
+      <created>1602836605166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602836605166</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,9 +218,18 @@
     </state>
     <state x="461" y="179" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1602583426961" />
     <state x="519" y="181" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602729318460" />
-    <state x="446" y="247" key="Vcs.Push.Dialog.v2" timestamp="1602644950776">
-      <screen x="0" y="0" width="1707" height="1027" />
+    <state x="502" y="250" key="Vcs.Push.Dialog.v2" timestamp="1602836696453">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="446" y="247" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1602644950776" />
+    <state x="502" y="250" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602836696453" />
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602836753214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602836753214" />
+    <state x="689" y="307" key="git4idea.merge.GitPullDialog" timestamp="1602836625963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="307" key="git4idea.merge.GitPullDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602836625963" />
   </component>
 </project>
